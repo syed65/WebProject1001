@@ -10,7 +10,7 @@ public class bucky {
 		System.out.println("Print your second Number:  ");
 		snum= scan.nextDouble();
 		ans= fnum+snum;
-		System.out.println("The answer is:  ");
+		System.out.println("The answer is:  "+ans);
 		
 	}
 	
